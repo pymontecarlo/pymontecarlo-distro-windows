@@ -1,6 +1,5 @@
 pymontecarlo
 pymontecarlo-gui
 pymontecarlo-casino2
-pymontecarlo-casino2-gui
-pyxray
-pycasinotools
+pymontecarlo-penepma
+pypenelopetools
